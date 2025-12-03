@@ -23,7 +23,7 @@ structured access control, the project delivers a secure, resilient, and efficie
 </p>
 
 
-  - [Powerpoint & demonstration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Powerpoint & demonstration](https://github.com/RionEma/Powerpoint-demonstration.git)
 
  <h2>👨‍💻 Ccnas Home lab:</h2>
  
