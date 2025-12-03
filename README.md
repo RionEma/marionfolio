@@ -40,5 +40,5 @@ The network is built to ensure resilience, stability, and protection against com
 a robust foundation for an organization’s daily operations.
 </p>
 
-  - [Packet tracer](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Packet tracer](https://github.com/RionEma/packet-tracer.git)
  
